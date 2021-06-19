@@ -1,0 +1,104 @@
+/* body */
+
+
+/* header */
+
+.blockheader{
+    border-bottom: 2px solid red ;
+    height: 50px;
+    margin-bottom: 0%;
+    
+}
+
+.iconlist{
+    display: flex;
+    list-style: none;
+    padding-left: 10px;
+}
+
+.homeicon{
+    margin-right: 50px;
+    text-align: center;
+    
+}
+
+.hometext{
+    margin-top: 0px;
+    font-size: small;
+}
+
+.abouticon{
+    margin-right: 50px;
+    text-align: center;
+}
+
+.abouttext{
+    margin-top: 0;
+    font-size: small;
+}
+
+.projecticon{
+    text-align: center;
+}
+
+.projecttext{
+    margin-top: 0%;
+    font-size: small;
+}
+
+/* profile */
+
+.profile{
+    margin-top: 0;
+    padding-bottom: 0;
+    background-image: url(img/深井克美\　ランナー.jpeg);
+    background-size: 600px;
+    height: 500px;
+
+}
+
+.text{
+    margin-left: 10%;
+}
+
+.name{
+    font-weight: 100;
+    font-size: 100px ;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10%;
+}
+
+.job{
+    padding-top: 0px;
+    font-size: 20px;
+}
+
+/* about */
+
+.about{
+    text-align: center;
+    background-color:tomato;
+}
+
+h2{
+    margin-top: 0%;
+    padding-top: 20px;
+}
+
+.line{
+    margin: 0;
+    padding: 0;
+}
+
+.linklist{
+    padding-bottom: 20px;
+}
+
+.githubicon{
+    margin-right: 10px;
+}
+
+.instagramicon{
+    margin-right: 10px;
+}
